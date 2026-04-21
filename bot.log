@@ -1,0 +1,4 @@
+2026-04-21 19:51:18,046 - INFO - Order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'price': None}
+2026-04-21 19:51:19,049 - INFO - Order response: {'orderId': 304518, 'status': 'FILLED', 'executedQty': '0.01', 'avgPrice': '65000', 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET'}
+2026-04-21 19:51:48,515 - INFO - Order request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'price': 60000.0}
+2026-04-21 19:51:49,517 - INFO - Order response: {'orderId': 338181, 'status': 'NEW', 'executedQty': '0.01', 'avgPrice': '60000.0', 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT'}
